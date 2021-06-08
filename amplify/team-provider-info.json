@@ -1,0 +1,15 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactgit-prod-82313-authRole",
+      "UnauthRoleArn": "arn:aws:iam::123488309463:role/amplify-reactgit-prod-82313-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::123488309463:role/amplify-reactgit-prod-82313-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-reactgit-prod-82313-deployment",
+      "UnauthRoleName": "amplify-reactgit-prod-82313-unauthRole",
+      "StackName": "amplify-reactgit-prod-82313",
+      "StackId": "arn:aws:cloudformation:us-west-2:123488309463:stack/amplify-reactgit-prod-82313/71f1baf0-c86d-11eb-a3c7-0aafaec40dc9",
+      "AmplifyAppId": "d38fp6g7azx3bx"
+    }
+  }
+}
